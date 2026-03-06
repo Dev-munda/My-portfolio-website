@@ -47,7 +47,7 @@ function Hero() {
               <div className="hero-photo-glow"></div>
               <div className="hero-photo-ring"></div>
               <img 
-                src="/api/placeholder/400/400" 
+                src="/profile.jpg" 
                 alt="Profile" 
                 className="hero-photo"
                 // Replace with your actual image path
